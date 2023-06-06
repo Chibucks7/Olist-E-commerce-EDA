@@ -1,2 +1,2 @@
 # Olist-E-commerce-EDA
-Performing EDA on Olist Dataset.
+Performing Exploratory Data Analysis(EDA) on Olist Dataset.
